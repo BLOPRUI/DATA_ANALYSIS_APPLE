@@ -1,0 +1,3 @@
+Análisis comparativo de mercados (EE. UU. e India) con Power BI
+
+Desarrollo de un dashboard interactivo para analizar la evolución de los precios de productos tecnológicos en los mercados estadounidense e indio. El proyecto incluye análisis individuales por mercado, comparación mediante variaciones porcentuales para evitar sesgos por tipo de cambio y un resumen ejecutivo con los principales insights obtenidos.
