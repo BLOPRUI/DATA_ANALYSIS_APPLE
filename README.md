@@ -95,27 +95,17 @@ El proyecto finaliza con una página de resumen ejecutivo donde se destacan los 
 
 ## 🇺🇸 Dashboard EE. UU.
 
-<img width="1522" height="847" alt="dashboard_USA" src="https://github.com/user-attachments/assets/35903b9f-0a95-4376-813b-e81b34031835" />
-
 ![Dashboard USA](images/dashboard_USA.png)
 
 ## 🇮🇳 Dashboard India
-
-<img width="1500" height="842" alt="dashboard_INDIA" src="https://github.com/user-attachments/assets/39cc2c57-2a26-4e23-9933-f7548451876c" />
 
 ![Dashboard India](images/dashboard_INDIA.png)
 
 ## 🌍 Comparativa
 
-<img width="1520" height="845" alt="Comparación" src="https://github.com/user-attachments/assets/275b44d1-82e1-4d61-9763-a9137be196a0" />
-
-
 ![Comparativa](images/Comparación.png)
 
 ## 📌 Conclusiones
-
-<img width="1517" height="840" alt="Conclusiones" src="https://github.com/user-attachments/assets/bfbcaee0-6eac-4108-a8f0-2f997ba01d18" />
-
 
 ![Conclusiones](images/Conclusiones.png)
 ---
