@@ -94,14 +94,17 @@ El proyecto finaliza con una página de resumen ejecutivo donde se destacan los 
 # 📷 Capturas del dashboard
 
 ## 🇺🇸 Dashboard EE. UU.
+Análisis del mercado estadounidense mediante la evolución del precio medio, comparación entre precio de lanzamiento y precio actual, distribución por plataforma y segmentación por eventos de venta.
 
 ![Dashboard USA](images/dashboard_USA.png)
 
 ## 🇮🇳 Dashboard India
+Análisis del mercado indio mediante la evolución del precio medio, comparación entre precio de lanzamiento y precio actual, distribución por plataforma y segmentación por eventos de venta.
 
 ![Dashboard India](images/dashboard_INDIA.png)
 
 ## 🌍 Comparativa
+Análisis comparativo de ambos mercados mediante la evolución del precio medio, comparación entre precio de lanzamiento y precio actual, distribución por plataforma y segmentación por eventos de venta.
 
 ![Comparativa](images/Comparación.png)
 
